@@ -11,7 +11,7 @@
     { "name": "AUSD", "type": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD" },
     { "name": "AXOL", "type": "0xae00e078a46616bf6e1e6fb673d18dcd2aa31319a07c9bc92f6063363f597b4e::AXOL::AXOL" },
     { "name": "Aya Asagiri", "type": "0x8e9187b49143e6071d8bdee63e34224a8e79fdaa6207d2d2ed54007c45936e0b::aya::AYA" },
-    { "name": "Babank", "type": "0x7ae454ddee04d24634981df08a856927dfd28b0ca5f28aea5dcb06fcb6913a85::babank::BABANK", "image": "https://i.imgur.com/GCbxwiZ.png" },
+    { "name": "Babank", "type": "0x7ae454ddee04d24634981df08a856927dfd28b0ca5f28aea5dcb06fcb6913a85::babank::BABANK", "image": "https://i.imgur.com/XE4l8eT.png" },
     { "name": "Beeg Blue Whale", "type": "0x727458212ca0be056d9ccc0d42981bdf41109779fbd9c7fad56c4456e0c3d0c6::beeg::BEEG" },
     { "name": "BLUB", "type": "0xfa7ac3951fdca92c5200d468d31a365eb03b2be9936fde615e69f0c1274ad3a0::BLUB::BLUB" },
     { "name": "Bluefin", "type": "0xe1b45a0e641b9955a20aa0ad1c1f4ad86aad8afb07296d4085e349a50e90bdca::blue::BLUE" },
